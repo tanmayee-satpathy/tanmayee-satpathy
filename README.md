@@ -74,6 +74,11 @@ A full-stack portal where students upload lost/located items, with smart image+m
 
 ---
 
+## 📄 Resume  
+[Click here](https://github.com/tanmayee-satpathy/tanmayee-satpathy/blob/main/SWE_Resume_Template%20(7).pdf)
+
+---
+
 ## 📫Connect With Me
 
 <p align="left">
