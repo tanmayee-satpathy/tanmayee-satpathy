@@ -38,7 +38,7 @@ A smart donor–recipient matching platform with automated verification and inst
 
 ### 🔹 Lost & Found Portal — Campus Item Recovery System  
 A full-stack portal where students upload lost/located items, with smart image+metadata match detection.  
-**Tech:** React, Vite, Supabase, TailwindCSS  
+**Tech:** React, Vite, mongoDb, TailwindCSS  
 🔗 *[View Repository]([https://github.com/tanmayee-satpathy/CampusLostNFound])*
 
 ---
