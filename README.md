@@ -77,7 +77,7 @@ An AI-powered virtual gym coach that uses computer vision, pose estimation, and 
 ---
 
 ## 📄 Resume  
-[Click here](https://github.com/tanmayee-satpathy/tanmayee-satpathy/blob/main/SWE_Resume_Template%20(7).pdf)
+[Click here](./Tanmayee_Resume.pdf.pdf)
 
 ---
 
