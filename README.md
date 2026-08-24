@@ -29,17 +29,19 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Gifted Veins — Real-Time Blood Donor Finder  
-A smart donor–recipient matching platform with automated verification and instant certificate generation.  
-**Tech:** Node.js, Express, MongoDB, EJS  
-🔗 *[View Repository](https://github.com/tanmayee-satpathy/Gifted-Veins)*
+### 🔹 📸 SnapClass — AI-Powered Smart Attendance System
+An AI-powered attendance platform that automates classroom attendance using face recognition and voice-based workflows.
+**Tech:** Python, Streamlit, Supabase, OpenCV, Face Recognition, AI/ML
+<br>
+🔗 *[View Repository](https://github.com/tanmayee-satpathy/SnapClass-landing-page)*
 
 ---
 
-### 🔹 Lost & Found Portal — Campus Item Recovery System  
-A full-stack portal where students upload lost/located items, with smart image+metadata match detection.  
-**Tech:** React, Vite, mongoDb, TailwindCSS  
-🔗 *[View Repository](https://github.com/tanmayee-satpathy/CampusLostNFound)*
+### 🔹🏋️ FitNova AI — Real-Time AI Gym Coach
+An AI-powered virtual gym coach that uses computer vision, pose estimation, and voice AI to analyze exercises and provide real-time feedback. 
+**Tech:** Python, Streamlit, MediaPipe, OpenCV, Groq API, gTTS, WebRTC 
+<br>
+🔗 *[View Repository](https://github.com/tanmayee-satpathy/ai-gym-coach-landing-page)*
 
 ---
 
